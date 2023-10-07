@@ -13,3 +13,4 @@
 - [X] [Saturn](https://modrinth.com/mod/saturn)
 - [X] [Smooth Boot (Reloaded)](https://modrinth.com/mod/smooth-boot-reloaded)
 - [X] [Entity Culling](https://modrinth.com/mod/entityculling)
+- [X] [Radium](https://modrinth.com/mod/radium)
