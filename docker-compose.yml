@@ -16,4 +16,5 @@ services:
       # attach the relative directory 'data' to the container's /data path
       - ./data:/data
       - ./mods:/data/mods
+      - ./world:/data/world
       - ./server.properties:/data/server.properties
